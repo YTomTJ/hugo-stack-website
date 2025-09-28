@@ -16,3 +16,11 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+verbose = true
+verboseLog = true
+logLevel = "debug"
+
+[server]
+enableReload = true
+watch = true
