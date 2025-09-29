@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://www.ytom.cc"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "ytom"
 
 # Theme i18n support
@@ -14,12 +14,12 @@ hasCJKLanguage = true
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
 
-[pagination]
-pagerSize = 5
-
 verbose = true
 verboseLog = true
 logLevel = "debug"
+
+[pagination]
+pagerSize = 5
 
 [server]
 enableReload = true

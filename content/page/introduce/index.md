@@ -1,10 +1,8 @@
 ---
 title: "介绍"
 slug: "introduce"
-layout: "introduce"
 outputs:
     - html
-    - json
 menu:
     main:
         weight: 2

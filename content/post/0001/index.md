@@ -1,6 +1,5 @@
 ---
 title: 金海湖水墨风照片
-# description: Welcome to Hugo Theme Stack
 date: 2025-09-28
 image: 1.jpg
 categories:
